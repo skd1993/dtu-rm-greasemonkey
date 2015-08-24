@@ -19,6 +19,7 @@ for (var i = 1; i < len; i++)
   var col_date = new Date(bits[2], bits[1] - 1, d);
   var curr_date = new Date();
 
+// change the branch name to your branch
   if (cll.indexOf('Software') != - 1 || cll.indexOf('software') != - 1)
   {
     if (col_date.getTime() > curr_date.getTime())
