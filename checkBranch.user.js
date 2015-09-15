@@ -2,7 +2,7 @@
 // @name        RMCheckBranch
 // @namespace   http://tnp.dtu.ac.in
 // @description highlights companies in RM open for your branch
-// @include     /^http:\/\/tnp\.dtu\.ac\.in\/rm3y\/utilities\/new_rec_table\.php\?id=2k12\/se\/[0-1][0-9][0-9]&l1=0&l2=[0-9]{4}$/
+// @include     /^http:\/\/tnp\.dtu\.ac\.in\/rm3y\/utilities\/new_rec_table\.php\?id=2k12\/se\/[0-1][0-9][0-9]&l1=[0-9]{4}&l2=[0-9]{4}$/
 // @version     1.1
 // @grant       none
 // ==/UserScript==
